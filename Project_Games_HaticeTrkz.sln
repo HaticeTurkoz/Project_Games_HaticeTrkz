@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Games_HaticeTrkz", "Project_Games_HaticeTrkz\Project_Games_HaticeTrkz.csproj", "{5F16502A-8A7A-4770-87ED-7E4E8A9345A6}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProjectHaticeTrkz_schools", "ProjectHaticeTrkz_schools\ProjectHaticeTrkz_schools.vdproj", "{6F4B98C7-3D3B-499B-8964-0766D4FB399A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F16502A-8A7A-4770-87ED-7E4E8A9345A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F16502A-8A7A-4770-87ED-7E4E8A9345A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F16502A-8A7A-4770-87ED-7E4E8A9345A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F16502A-8A7A-4770-87ED-7E4E8A9345A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F4B98C7-3D3B-499B-8964-0766D4FB399A}.Debug|Any CPU.ActiveCfg = Debug
+		{6F4B98C7-3D3B-499B-8964-0766D4FB399A}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8DF0C87-1756-45A1-9ACD-E8435896B239}
+	EndGlobalSection
+EndGlobal
